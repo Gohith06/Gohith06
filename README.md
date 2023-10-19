@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gohith H</h1>
 <h3 align="center">A passionate Computer Science Student from India</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gohith06](https://github.com/Gohith06)
 
